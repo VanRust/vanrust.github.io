@@ -1,0 +1,30 @@
+@import url(reset.css);
+
+section {
+  width: 100%;
+  text-align: center;
+  text-align: center;
+  height: 25em;
+  font-family: 'Fira Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.logo {
+  background-image: url('../images/rusty_van01.jpg');
+  background-repeat: no-repeat;
+  background-position: 0px -250px;
+  background-size: cover;
+  margin: auto auto;
+  height: 100%;
+  width: 80%;
+}
+
+.rust-logo {
+  fill: #ffe;
+}
+
+.vanrust {
+  color: #ffe;
+  letter-spacing: 0.1em;
+  font-weight: bold;
+  font-size: 5em;
+}
